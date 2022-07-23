@@ -1,0 +1,120 @@
+.logo {
+	display:  inline-block;
+	margin-right:  50px;
+	vertical-align: middle;
+}
+
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-li {
+	display: inline-block;
+	margin-right:  20px;
+	font-size: 22px;
+	Color: #3D58A6;
+}
+
+
+
+.active {
+	Color: red;
+}
+
+.left-block {
+   width:  570px;
+   background-color: #F2F2F2;
+   display: inline-block;
+   padding:  13px 15px 24px 20px;
+
+}
+
+.right-block {
+	width:  570px;
+	background-color: lightblue;
+	display: inline-block;
+	padding:  13px 15px 24px 20px;
+}
+
+.text-block {
+	display: inline-block;
+	width: 350px;
+	vertical-align:  middle;
+}
+
+.picture {
+	vertical-align: middle;
+	margin-right: 60px;
+}
+
+.title-block {
+	margin-bottom: 12.5px;
+}
+
+.date {
+	background-color: blue;
+	width:  56px;
+	height:  56px;
+	padding: 7px 10px;
+	font-size: 37px;
+	Color: white;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.article1 {
+	display:  inline-block;
+	width:  929px;
+	vertical-align: top;
+}
+
+.photo1 {
+	vertical-align: top;
+	margin-right: 39px;
+}
+
+.text1 {
+	margin-bottom: 21px;
+}
+
+.h3 {
+	margin-top: 20px;
+	margin-bottom:  16.5px;
+}
+
+.month {
+	font-size: 30px;
+	Color: blue;
+	margin-left: 10px;
+}
+
+.bottompage {
+	margin-top: 20px;
+}
+
+.divider {
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+}
+
+.section-contact {
+	background-color: #E6E6E6;
+}
+
+
+
+
+.left-block {
+	display:  inline-block;
+	vertical-align: top;
+	margin-right: 75px;
+}
+
+.right-block {
+	display:  inline-block;
+	vertical-align: top;
+}
+
